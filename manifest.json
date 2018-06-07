@@ -1,0 +1,5 @@
+{
+  "name": "プッシュ通知",
+  "short_name": "sample push",
+  "gcm_sender_id": "586964779882"
+}

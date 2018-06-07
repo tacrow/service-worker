@@ -1,0 +1,8 @@
+{
+  "name": "service-worker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tacrow/service-worker.git",
+  "author": "tacrow",
+  "license": "MIT"
+}
