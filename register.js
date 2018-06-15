@@ -2,7 +2,7 @@
 
 if ('serviceWorker' in navigator) {
   //serviceworker.jsをSerice Workerとして登録
-  navigator.serviceWorker.register('serviceworker.js');
+  navigator.serviceWorker.register('serviceWorker.js');
   //navigator.serviceWorker.readyはresolveなPromiseと、
   //serviceWorkerRegistrationオブジェクトを渡す。
   navigator.serviceWorker.ready.then((serviceWorkerRegistration) => {
